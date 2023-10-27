@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\content_main.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\activity_view_all.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_view_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\nav_cat_item.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\nav_cat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\fragment_new_products.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_new_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\fragment_my_carts.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_my_carts.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\luutru.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\luutru.xml"
+    },
+    {
+        "merged": "com.example.mappstore.app-mergeDebugResources-4:/layout/activity_view_all.xml",
+        "source": "com.example.mappstore.app-main-7:/layout/activity_view_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\popular_item.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\popular_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\fragment_offers.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_offers.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\fragment_my_orders.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_my_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\home_cat_items.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\home_cat_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\recommended_item.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\recommended_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\view_all_item.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\view_all_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-mergeDebugResources-4:\\layout\\fragment_category.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_category.xml"
+    }
+]

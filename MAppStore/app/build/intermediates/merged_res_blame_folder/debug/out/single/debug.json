@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_local_phone_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_menu_person.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\menu_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_keylog.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\keylog.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_offers2.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\offers2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_key.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_milk.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\milk.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_activity_view_all.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_view_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_add_circle.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_nav_cat_item.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\nav_cat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_category_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_category_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_fish.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\fish.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_milk2.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\milk2.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_offers3.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\offers3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_fragment_new_products.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_new_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_loginbg.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\loginbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_fragment_offers.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_offers.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_mycart.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\mycart.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ratingbar.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ratingbar.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_btn_bg_detailed.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\btn_bg_detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_local_offer_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_local_offer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_grocery.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\grocery.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_fruits.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\fruits.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_home_cat_items.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\home_cat_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_search_gb.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\search_gb.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_menuhome.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_menuhome.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\menu_main.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_view_all_item.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\view_all_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_newproducts.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\newproducts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_offer1.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\offer1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_slider2.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\slider2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_popular_item.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\popular_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_fragment_my_carts.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_my_carts.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_myorder.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\myorder.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_addtocartimg.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\addtocartimg.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_placedorder.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\placedorder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_plusicon.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\plusicon.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_luutru.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\luutru.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_account.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_slider1.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\slider1.jpg"
+    },
+    {
+        "merged": "com.example.mappstore.app-merged_res-5:/layout_activity_view_all.xml.flat",
+        "source": "com.example.mappstore.app-main-7:/layout/activity_view_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_eggs.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\eggs.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_slider5.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\slider5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_fragment_my_orders.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_my_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_regbg.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\regbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_registration.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\registration.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_grocery.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\grocery.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_slider4.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\slider4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_recommended_item.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\recommended_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_autorenew.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\autorenew.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_slider3.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\slider3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_iconminus.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\iconminus.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_diet.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\diet.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\font_alice.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\font\\alice.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xxxhdpi_profileimg.jpg.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xxxhdpi\\profileimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_round_shape.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\round_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_remove_circle.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\remove_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_arrow.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\drawable_birthdaycake.png.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\drawable\\birthdaycake.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-merged_res-5:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.example.mappstore.app-main-7:\\menu\\activity_main_drawer.xml"
+    }
+]
